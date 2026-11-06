@@ -33,4 +33,4 @@ Configurado para isolar as dependências conforme as regras de testes da arquite
    
 1. **Para iniciar a API em modo de teste**:
    ```bash
-   APP_ENV=test npm run dev
+   $env:APP_ENV="test"; npm run dev
