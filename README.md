@@ -18,6 +18,19 @@ Siga os passos abaixo para preparar o ambiente e rodar o projeto localmente:
 4. **Popule o banco com os dados iniciais (Seed)**:
    ```bash
    npm run prisma:seed
-5. **Para iniciar a API em modo de desenvolvimento**:
+
+** Como Rodar no Modo Desenvolvimento
+
+Utiliza o banco de dados real via Prisma e as implementações padrão de produção.
+   
+1. **Para iniciar a API em modo de desenvolvimento**:
    ```bash
    npm run dev
+
+** Como Rodar no Modo Teste
+
+Configurado para isolar as dependências conforme as regras de testes da arquitetura.
+   
+1. **Para iniciar a API em modo de teste**:
+   ```bash
+   APP_ENV=test npm run dev
