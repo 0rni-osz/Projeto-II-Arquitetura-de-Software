@@ -19,7 +19,7 @@ Siga os passos abaixo para preparar o ambiente e rodar o projeto localmente:
    ```bash
    npm run prisma:seed
 
-** Como Rodar no Modo Desenvolvimento
+## Como Rodar no Modo Desenvolvimento
 
 Utiliza o banco de dados real via Prisma e as implementações padrão de produção.
    
@@ -27,7 +27,7 @@ Utiliza o banco de dados real via Prisma e as implementações padrão de produ�
    ```bash
    npm run dev
 
-** Como Rodar no Modo Teste
+## Como Rodar no Modo Teste
 
 Configurado para isolar as dependências conforme as regras de testes da arquitetura.
    
