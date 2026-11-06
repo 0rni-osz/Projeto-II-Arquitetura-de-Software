@@ -1,6 +1,6 @@
 # Projeto II - Arquitetura de Software: Injeção de Dependências com InversifyJS
 
-Este projeto consiste na refatoração do backend de e-commerce para implementar Injeção de Dependências (DI) e Inversão de Controle (IoC) utilizando a biblioteca **InversifyJS**, dando continuidade aos princípios SOLID na matéria de Arquitetura de Software ministrada por Maikon Bueno.
+Este projeto consiste na refatoração do backend de e-commerce para implementar Injeção de Dependências e Inversão de Controle utilizando a biblioteca InversifyJS, dando continuidade aos princípios SOLID na matéria de Arquitetura de Software ministrada por Maikon Bueno.
 
 ## Instalação e Configuração
 
